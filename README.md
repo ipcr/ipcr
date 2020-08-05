@@ -8,6 +8,8 @@ The ultimate goal of this project is to build a fully decentralised version of [
 * Decentralised identification.
 * Web frontend is running on p2p network.
 
+You can check a prototype of the web frontend in [ipcr/web](https://github.com/ipcr/web). It looks like an extremely simplified version of Docker Hub. Live demo is running [on Fleek](https://ipcr.on.fleek.co).
+
 The project was started at [HackFS](https://hackfs.com). HackFS is a virtual Hackathon by ETHGlobal and Protocol Labs.
 
 The following sections of the document describe how to build a rudimentary public container registry using [IPFS](https://ipfs.io), [IPNS](https://docs.ipfs.io/concepts/ipns/) and [DNSLink](https://dnslink.io).
